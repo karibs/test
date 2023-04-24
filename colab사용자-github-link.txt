@@ -1,0 +1,12 @@
+## Google Colab 파일 링크
+
+- [01-folium 예제]
+https://colab.research.google.com/github/smj-lab2023/sia2023/blob/main/1_folium.ipynb
+
+- [02-Google-Cloud-API 예제]
+
+
+- [03-Geo-Data 예제]
+
+
+
